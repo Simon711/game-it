@@ -1573,3 +1573,6 @@ section {
     padding-top: 4px;
   }
 }
+.text-justify {
+  text-align: justify;
+}
